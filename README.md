@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ghazi</h1>
-<h3 align="center">A passionate cybersecurity from Earth</h3>
+<h3 align="center">A passionate cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alharbigh&label=Profile%20views&color=0e75b6&style=flat" alt="alharbigh" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **digital forensics**
 
-- 📫 How to reach me **nafg235@gmail.com**
+- 📫 How to reach me **ghazin.2030@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
